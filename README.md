@@ -6,11 +6,11 @@ _Giving users a fast and easy way to track their money is important, but allowin
 
 ### App Screenshot
 
+![PWA Budget Tracker Screenshot](public/images/budget-tracker-screenshot.png)
+
 ### App Deployed to Heroku
 
 https://peaceful-mesa-78672.herokuapp.com/
-
-### App Demo
 
 ### Application Functionalities
 
